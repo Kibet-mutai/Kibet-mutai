@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kibet-mutai
-- 👀 I’m web developer 
-- 🌱 I’m currently working on web development with python/django and php
+- 👀 Software developer 
+- 🌱 python, Django and PHP, Laravel
 - 💞
 - 📫 How to reach me - email: kibetem24@gmail.com 
 
