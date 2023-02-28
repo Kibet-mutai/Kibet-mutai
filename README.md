@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kibet-mutai
+- 👋 Hi, I’m Kibet Mutai
 - 👀 Software developer 
 - 🌱 python, Django and PHP, Laravel
 - 💞
