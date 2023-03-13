@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kibet Mutai
-- 👀 Software developer 
-- 🌱 python, Django and PHP, Laravel
-- 💞
-- 📫 How to reach me - email: kibetem24@gmail.com 
+- Software developer 
+- How to reach me - email: kibetem24@gmail.com 
 
 <!---
 Kibet-mutai/Kibet-mutai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
